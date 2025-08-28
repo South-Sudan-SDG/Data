@@ -1,1 +1,3 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Age,UNIT_MEASURE,Value
+2010,Normal value,Thousands,South Sudan Household Health Survey 2010,Infant mortality rate [3.2.1],,12 to 23 months,"Per 1,000 live births",79
+2010,Normal value,Thousands,South Sudan Household Health Survey 2010,Under-five mortality rate [3.2.1],,24 to 59 months old,"Per 1,000 live births",108

@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2010,2010],"OBS_STATUS":["A","A"],"UNIT_MULT":["3","3"],"SOURCE_DETAIL":["South Sudan Household Health Survey 2010","South Sudan Household Health Survey 2010"],"SERIES":["SH_DYN_IMRT","SH_DYN_MORT"],"REF_AREA":[null,null],"AGE":["M12T23","M24T59"],"UNIT_MEASURE":["PER_1000_LIVE_BIRTHS","PER_1000_LIVE_BIRTHS"],"Value":[79,108]},"edges":{"From":["OBS_STATUS","UNIT_MULT","SOURCE_DETAIL"],"To":["UNIT_MULT","SOURCE_DETAIL","AGE"]}}

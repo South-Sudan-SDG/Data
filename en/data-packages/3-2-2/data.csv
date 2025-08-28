@@ -1,1 +1,2 @@
-Year,Value
+Year,Observation status,Unit multiplier,SOURCE_DETAIL,SERIES,Reference area,Age,UNIT_MEASURE,Value
+2010,Normal value,Thousands,South Sudan Household Health Survey 2010,Neonatal mortality rate [3.2.2],,under 1 month old,"Per 1,000 live births",43
